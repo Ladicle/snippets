@@ -1,0 +1,6 @@
+* Snippets
+
+Snippets for all languages.
+
+** Languages
+- [[file:go/][Go]]
